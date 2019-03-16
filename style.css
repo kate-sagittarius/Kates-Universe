@@ -61,10 +61,10 @@ header {
 }
 
 @keyframes background-animation {
-  0% {background-image: url(0001.jpg);}
-  25% {background-image: url(0002.jpg);}
-  50% {background-image: url(0003.jpg);}
-  75% {background-image: url(0004.jpg);}
+  0% {background-image: url(images/0001.jpg);}
+  25% {background-image: url(images/0002.jpg);}
+  50% {background-image: url(images/0003.jpg);}
+  75% {background-image: url(images.0004.jpg);}
 }
 
 .header {
@@ -72,7 +72,7 @@ header {
   background-color: #000000;
   height: 200px;
   position: relative;
-  background-image: url(0001.jpg);
+  background-image: url(images/0001.jpg);
   background-position: center;
   background-size: contain;
   background-repeat: repeat;
@@ -224,7 +224,7 @@ header {
 }
 
 .main__section__picture {
-  background-image: url(space.jpg);
+  background-image: url(images/space.jpg);
   background-position: center;
   background-size: cover;
   width: 40%;
@@ -358,7 +358,7 @@ h3 {
 }
 
 .main__section3__animation {
-  background-image: url(moon.png);
+  background-image: url(images/moon.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
